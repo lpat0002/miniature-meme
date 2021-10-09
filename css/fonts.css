@@ -1,0 +1,22 @@
+.cases_text {
+    color: #2590c8;
+}
+
+.deaths_text {
+    color: #d13141;
+}
+
+h1 {
+    font-family: 'Cardo', serif;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+h3 {
+    font-family: 'Cardo', serif;
+    font-size:larger;
+}
+
+p {
+    font-family: 'Oswald', sans-serif;
+}
